@@ -5,7 +5,7 @@ Shinny widget trying to simulate Stephen Few table dashboard component
 ## Inspiration
 The widget is inspired by the archetype Sales Dashboard design from Few’s book Information Dashboard Design.
 
-![image](https://user-images.githubusercontent.com/61669129/78679958-2b75a780-78eb-11ea-8796-005e2725e062.png)
+![image](https://user-images.githubusercontent.com/61669129/78690871-4864a780-78f8-11ea-8a3f-79d9b1e13578.png)
 
 ## Demo
 
