@@ -10,6 +10,7 @@
 library(shiny)
 library(tidyverse)
 library (lubridate)
+library (plotly)
 
 
 #source the component
