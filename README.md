@@ -9,7 +9,7 @@ The widget is inspired by the archetype Sales Dashboard design from Few’s book
 
 ## Demo
 
-Demo available at https://calindamian.shinyapps.io/
+Demo available at https://calindamian.shinyapps.io/sf_table_component/
 
 ## Usage
 Files 
